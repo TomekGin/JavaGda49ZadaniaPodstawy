@@ -16,7 +16,7 @@ public class Task7 {
             String operator = scanner.nextLine();
 //            System.out.print(firstDigit + " " + operator + " " + secondDigit + " = ");
             float result = calculate(firstDigit, secondDigit, operator);
-            System.out.println("Result: + \n" + result);
+            System.out.println("Result: \n" + result);
             System.out.println("New calculation or STOP?");
             decision = scanner.nextLine();
         } while (!"STOP".equalsIgnoreCase(decision));
