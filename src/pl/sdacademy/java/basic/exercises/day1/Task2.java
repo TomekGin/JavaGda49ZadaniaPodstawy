@@ -1,3 +1,5 @@
+package pl.sdacademy.java.basic.exercises.day1;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
