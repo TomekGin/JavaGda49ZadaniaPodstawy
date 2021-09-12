@@ -6,7 +6,7 @@ public class Task6 {
     public static void main(String[] args) {
 //        printMultiplicationTable();
 //        printModifiedMultiplicationTable();
-        printMultiplicationTableNew(6,2,5);
+        printMultiplicationTableNew(6,2,5 );
     }
 
     private static void printMultiplicationTable() {
