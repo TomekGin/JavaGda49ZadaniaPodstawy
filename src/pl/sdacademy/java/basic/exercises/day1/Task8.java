@@ -1,7 +1,5 @@
 package pl.sdacademy.java.basic.exercises.day1;
 
-import java.util.Scanner;
-
 public class Task8 {
     public static void main(String[] args) {
         int maxRange = 1000;
